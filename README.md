@@ -6,14 +6,14 @@
 
 ## 🛠 Current Stack
 
-![](https://img.shields.io/badge/Load-BigQuery-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Transform-dbt-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Extract-Fivetran%20|%20Airflow-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Coding-Jinja%20|%20Python%20|%20SQL-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Load-BigQuery-informational?style=flat-square&logo=googlecloud&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Transform-dbt-informational?style=flat-square&logo=dbt&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Extract-Fivetran%20|%20Airflow-informational?style=flat-square&logo=apacheairflow&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Coding-Jinja%20|%20Python%20|%20SQL-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/Version%20Control-git-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Continuous%20Integration-GitLab%20CI-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Container-Docker-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Version%20Control-git-informational?style=flat-square&logo=git&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Continuous%20Integration-GitLab%20CI-informational?style=flat-square&logo=gitlab&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=blue)
 
 <!---
 EstelleBarnoud/EstelleBarnoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
