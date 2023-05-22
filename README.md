@@ -12,13 +12,13 @@
 
 ## 🛠 Stack
 
-![](https://img.shields.io/badge/Load-BigQuery%20|%20Snowflake-informational?style=flat-square&logo=snowflake&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Transform-dbt-informational?style=flat-square&logo=dbt&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Extract-Fivetran%20|%20Stitch%20|%20Airflow-informational?style=flat-square&logo=apacheairflow&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Coding-Python%20|%20SQL-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Version%20Control-git-informational?style=flat-square&logo=git&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Continuous%20Integration-GitHub%20|%20GitLab-informational?style=flat-square&logo=githubactions&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Container-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Extract-Fivetran,%20Stitch,%20Airflow-informational?style=for-the-badge&logo=apacheairflow&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Load-BigQuery,%20Snowflake-informational?style=for-the-badge&logo=snowflake&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Transform-dbt-informational?style=for-the-badge&logo=dbt&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Coding-Python,%20SQL-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Version%20Control-git-informational?style=for-the-badge&logo=git&logoColor=white&color=pink)
+![](https://img.shields.io/badge/Continuous%20Integration-GitHub,%20GitLab-informational?style=for-the-badge&logo=githubactions&logoColor=white&color=green)
+![](https://img.shields.io/badge/Container-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=navy)
 
 <!---
 EstelleBarnoud/EstelleBarnoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
